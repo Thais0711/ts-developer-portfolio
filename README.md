@@ -13,7 +13,7 @@ Portfólio profissional desenvolvido com Flask + HTML + CSS.
 
 ## Contato
 📧 thaissilvapereira071197@gmail.com  
-📱 WhatsApp: +55 66 98126-2719  
+📱 WhatsApp: 
 💼 LinkedIn: www.linkedin.com/in/thais-francisca-silva-pereira-b78b42268
 
 ## Sobre
